@@ -2,6 +2,8 @@
 
 Jellyflix is a community CSS theme for Jellyfin Web 12 in Modern display mode. It layers a dark palette, a two-column library grid and horizontally scrolling media rows over ElegantFin. When Media Bar is installed, Jellyflix rounds the slides and uses the banner height supplied by the upstream stylesheets to keep the library grid below the banner.
 
+![Jellyfin Web before and with Jellyflix 4.5 and Media Bar](jellyflix-comparison.jpg)
+
 ## Installation
 
 1. Select **Modern** in Jellyfin Web's display settings.
